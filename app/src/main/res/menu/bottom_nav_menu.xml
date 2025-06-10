@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/resepListFragment"
+        android:icon="@drawable/ic_list"
+        android:title="Resep List" />
+
+    <item
+        android:id="@+id/addEditResepFragment"
+        android:icon="@drawable/ic_add_edit"
+        android:title="Add/Edit Resep" />
+</menu>
